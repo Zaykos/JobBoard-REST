@@ -1,2 +1,4 @@
 # JobBoard-REST
-This a school project based on the topic of a jobboard like indeed or linkedin
+This is an epitech project which the subject is creating a jobboard alike some existing platforms (Indeed etc).
+
+There is a backend part based on NodeJS. And then a frontend part based on VueJS.
