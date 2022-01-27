@@ -1,4 +1,4 @@
-#JobBoard Epitech project
+# JobBoard Epitech project
 
 
 This is an epitech project which the subject is creating a jobboard alike some existing platforms (Indeed etc).
