@@ -1,7 +1,7 @@
-# JobBoard Epitech project
+# JobBoard project
 
 
-This is an epitech project which the subject is creating a jobboard alike some existing platforms (Indeed etc).
+Creating a jobboard alike some existing platforms (Indeed etc).
 Using Javascript and his available frameworks is mandatory
 
 There is a backend part based on NodeJS/ExpressJS.
